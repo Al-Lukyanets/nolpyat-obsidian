@@ -1,0 +1,1 @@
+# -nolpyat-obsidian
