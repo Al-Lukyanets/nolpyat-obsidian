@@ -1,1 +1,1 @@
-# -nolpyat-obsidian
+# nolpyat-obsidian
